@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rajesh cu</h1>
+<h1 align="center">Hi 👋, I'm rajesha cu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **curajesha@gmail.com**
